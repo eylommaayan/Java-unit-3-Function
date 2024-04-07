@@ -1,3 +1,8 @@
+
+// פונקציה  void  
+
+// זו פונקציה שלא מחזירה ערכים
+
 import java.util.Scanner;
 
 public class JavaDraw {
